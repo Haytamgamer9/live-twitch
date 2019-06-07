@@ -8,7 +8,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`OKANIME-Senneezy`,"http://twitch.tv/Dream")
+client.user.setGame(`OKANIME-EsCa✨귀엽다®`,"http://twitch.tv/Dream")
 client.user.setStatus("dnd")
 });
 
